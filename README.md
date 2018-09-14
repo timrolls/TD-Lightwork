@@ -14,6 +14,8 @@ The included conf.json is set up for 60 pixel strips.
 
 ## Credits
 
-Based on fadecandy work from these repos: 
+Based on fadecandy work from these repos:
+
 https://github.com/Swaeg/TouchCandy
+
 https://github.com/Heljick/FCDesigner
