@@ -5,9 +5,15 @@ Includes a 3d-capable previsualizer.
 
 To quickly generate CSV maps of your existing layouts using computer vision, check out Lightwork: https://github.com/PWRFLcreative/Lightwork
 
-##Installation
+## Installation
 
 The modified opc.py included in this repo, goes to: \Derivative\TouchDesigner088\bin\Lib
 
 Run the included windows fcserver to send to fadecandy devices
-The included conf.json is modified for 60 pixel strips.
+The included conf.json is set up for 60 pixel strips.
+
+## Credits
+
+Based on fadecandy work from these repos: 
+https://github.com/Swaeg/TouchCandy
+https://github.com/Heljick/FCDesigner
