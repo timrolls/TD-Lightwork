@@ -1,0 +1,1 @@
+start "Fadecandy Server" fcserver.exe	conf.json
