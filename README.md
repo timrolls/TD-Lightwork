@@ -7,10 +7,14 @@ To quickly generate CSV maps of your existing layouts using computer vision, che
 
 ## Installation
 
+### For Fadecandy output:
 The modified opc.py included in this repo, goes to: \Derivative\TouchDesigner088\bin\Lib
 
 Run the included windows fcserver to send to fadecandy devices
 The included conf.json is set up for 60 pixel strips.
+
+### For DMX/Artnet/sACN
+Just configure the DMX OUT Chop for your output device/network
 
 ## Credits
 
